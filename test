@@ -1,0 +1,6 @@
+let membersembed = new Discord.RichEmbed()
+.setTitle("Here you can see the servers and users that use Mishu")
+.setImage(client.user.avatarURL)
+.setDescription(`**Servers**: \n${client.guilds.map(serv => `- ${serv.name}  \n${serv.memberCount} Members`).join('\n')}`)
+.setFooter(`Total Guilds: ${client.guilds.size} | Total Users: ${miembrosTotales} `)
+.setColor(`RANDOM`)

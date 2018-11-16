@@ -1,0 +1,47 @@
+{
+  "name": "Mishu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cleverbot.io": "^1.0.4",
+    "currency-format": "^1.0.11",
+    "currency-formatter": "^1.5.1",
+    "db": "^1.0.7",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.0.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "google-translate-api": "^2.3.0",
+    "mal-api": "^2.0.0",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "os": "^0.1.1",
+    "parse-ms": "^2.0.0",
+    "quick-db": "^1.0.5",
+    "quick.db": "^6.0.0",
+    "quick.hook": "^1.4.2",
+    "random-puppy": "^1.1.0",
+    "regular": "^0.1.6",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "simple-youtube-api": "^5.0.2",
+    "superagent": "^3.8.3",
+    "urlencode": "^1.1.0",
+    "youtube-playlist-info": "^1.1.2",
+    "youtube-search": "^1.1.1",
+    "ytdl-core": "^0.25.2",
+    "ytsearcher": "^1.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "description": ""
+}
